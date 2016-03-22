@@ -4,7 +4,7 @@
 , "author" : "Joel Van Horn <joel@joelvanhorn.com>"
 , "repository" :
   { "type" : "git"
-  , "url" : "https://github.com/lpww/json2json.git"
+  , "url" : "git://github.com/joelvh/json2json.git"
   }
 , "bugs" : { "url" : "https://github.com/joelvh/json2json/issues" }
 , "os" : [ "linux", "darwin", "freebsd", "win32", "sunos" ]
